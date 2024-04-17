@@ -38,7 +38,7 @@ export const projectsSection: ProjectsSectionType = {
         post: 'Event Head',
         url: '',
         img: '/EH1.jpg',
-        year: 12, 
+        year: 11, 
         tags: [],
     },
     {
@@ -47,7 +47,7 @@ export const projectsSection: ProjectsSectionType = {
         post: 'Publicity Head',
         url: '',
         img: '/PH1.jpg',
-        year: 3, 
+        year: 10, 
         tags: [],
     },
     {
@@ -65,7 +65,7 @@ export const projectsSection: ProjectsSectionType = {
         post: 'Event Head',
         url: '',
         img: '/EH2.jpg',
-        year: 11, 
+        year: 9, 
         tags: [],
     },
     {
@@ -92,7 +92,7 @@ export const projectsSection: ProjectsSectionType = {
         post: 'Event Manager',
         url: '',
         img: '/EM1.jpg',
-        year: 14, 
+        year: 13, 
         tags: [],
     },
     {
@@ -101,7 +101,7 @@ export const projectsSection: ProjectsSectionType = {
         post: 'Event Manager',
         url: '',
         img: '/EM2.jpg',
-        year: 13, 
+        year: 14, 
         tags: [],
     },
     {
@@ -173,7 +173,7 @@ export const projectsSection: ProjectsSectionType = {
         post: 'Treasurer',
         url: '',
         img: '/T.jpg',
-        year: 19, 
+        year: 18, 
         tags: [],
     },
     {
@@ -182,7 +182,7 @@ export const projectsSection: ProjectsSectionType = {
         post: 'Event Head',
         url: '',
         img: '/EH3.jpg',
-        year: 9, 
+        year: 3, 
         tags: [],
     },
     {
@@ -227,7 +227,16 @@ export const projectsSection: ProjectsSectionType = {
         post: 'Event Head',
         url: '',
         img: '/EH4.jpg',
-        year: 10, 
+        year: 12, 
+        tags: [],
+    },
+    {
+        id: getId(),
+        name: 'Sanskruti Kumar',
+        post: 'Joint Treasurer',
+        url: '',
+        img: '/JT.jpg',
+        year: 19, 
         tags: [],
     },
     ],
