@@ -9,7 +9,7 @@ export const heroSection: HeroSectionType = {
     "FOR-AIM is a vibrant community of passionate individuals dedicated to advancing the field of Artificial Intelligence (AI). Our forum brings together professionals, researchers, students, and enthusiasts who share a common interest in AI technologies and applications.",
     specialText: 'Current Activity ',       
     cta: {
-        title: 'Foraim Broucher',
+        title: 'Event List',
         url: `/${resumeFileName}`,
         hideInDesktop: true,
     },
